@@ -1,0 +1,115 @@
+body {
+  background-color: #1C1B3A;
+  font-family: sans-serif;
+}
+
+header {
+  background: url(https://learn.logikaschool.com/uploads/student/2812468/681ba20aa614e.jpg) no-repeat center center/cover;
+  padding: 150px 20px
+}
+
+header h1, header h2 {
+  color:white;
+  text-align:center;
+}
+
+nav a {
+  text-decoration: none;
+  background-color: #A465DB;
+  border: 5px solid #A465DB;
+  border-radius: 30px;
+  color: white;
+  text-align: center;
+  margin: 80px;
+  font-size: 18px;
+  padding:5px
+  }
+
+nav {
+  text-align: center;
+}
+
+.ellariaT {
+  color: white;
+  text-align: left;
+  font-size:22px;
+  padding:15px;
+  border-left: 8px double #dcdcdcdc
+}
+
+.ellaria {
+  color: white;
+  text-align:right;
+  font-size:22px;
+  border-right: 8px double #dcdcdcdc;
+  padding: 15px;
+}
+
+main img {
+  border: 5px solid #8649AF;
+  margin:20px
+}
+
+main p {
+  color: white;
+  text-align: center;
+  font-size: 30px
+}
+
+ul {
+  color: white;
+  font-size: 20px;
+}
+
+.info {
+  text-align: left;
+}
+
+.character {
+  color:white;
+  text-align:center;
+  font-size:42px;
+  border: 3px solid white;
+  padding: 5px;
+  background-color:#643484;
+}
+
+.Liaraa {
+  color:white;
+  text-align: center;
+  font-size:36px;
+  border-bottom: 3px solid white;
+}
+
+.LiaraInfo {
+  color:white;
+  font-size:22px;
+  border-left: 3px solid white;
+  margin:20px;
+  padding:5px;
+}
+
+.LiaraCitat {
+  color:white;
+  text-align:center;
+  font-size: 20px;
+  border-top:3px solid white;
+  border-bottom:3px solid white;
+  padding:15px;
+}
+
+footer {
+  background-color:#330066;
+  padding: 4px
+}
+
+footer li {
+  color:white;
+  padding:15px;
+  border-bottom:3px solid white;
+}
+
+.end {
+  color:white;
+  font-size:13px;
+}
